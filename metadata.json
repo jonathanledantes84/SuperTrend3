@@ -1,0 +1,5 @@
+{
+  "name": "Bybit SuperTrend Bot",
+  "description": "Bot de trading automático para Bybit Spot usando el indicador SuperTrend. Monitoreo en tiempo real y ejecución de órdenes.",
+  "requestFramePermissions": []
+}
